@@ -1,0 +1,13 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignore the local virtual environment
+bin/
+include/
+share/
+lib/
+pyvenv.cfg
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
