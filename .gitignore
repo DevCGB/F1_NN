@@ -11,3 +11,6 @@ pyvenv.cfg
 
 # Ignore Python cache
 __pycache__/
+
+#Ignore f1_data file (You can generate your own)
+f1_data.csv
